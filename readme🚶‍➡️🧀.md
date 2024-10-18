@@ -1,1 +1,1 @@
-this is a cheeseburguer in git omg
+a cheeseburguer in git omg
