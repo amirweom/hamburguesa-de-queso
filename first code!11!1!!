@@ -1,0 +1,16 @@
+# ultimo print :D
+comando = input("Elige tu idioma/select your language 'english' o 'español'")
+
+if comando == "english":
+  print('The today date is 17th wednesday, October of 2024.')
+  print('Today I am feeling some bored and and anxious.')
+  print('I want learn code to create a grand project to solve grand problems or maybe form part of a grand enterprise.')
+  print('Now i think you are very strong to stay in this way, thanks so much for this, keep it up!.')
+  print('🗣️🔥')
+
+elif comando == "español":
+  print('La fecha de hoy es 17 jueves, Octubre de 2024.')
+  print('Hoy me siento algo aburrido y ansioso')
+  print('Yo busco aprender código para crear grandes proyectos que resuelvas grandes problemas o quizás formar parte de una gran empresa')
+  print('Ahora yo pienso que eres muy fuerte por mantenerte en este camino, gracias por esto, ¡mantente así!')
+  print('🔥🗣️')
